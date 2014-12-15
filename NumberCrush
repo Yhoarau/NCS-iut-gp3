@@ -66,10 +66,6 @@ namespace
             }
     }
 
-    void MakeAMove (CMat & Grid, const CPosition & Pos, char Direction)
-    {
-        
-    }
     
 
 }
